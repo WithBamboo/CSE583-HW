@@ -1,0 +1,1 @@
+I found the first part of the homework relatively straightforward, but the second and third parts took more trial and error. When I got stuck, I asked ChatGPT to help me understand how commands like git rebase, git pull, and git push affect local and remote branches. I also compared my attempts with the provided solutions to see where my steps differed. 
